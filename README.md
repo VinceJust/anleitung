@@ -99,3 +99,4 @@ git merge feature/neues-feature
 # 7.2 Pull Request 
 Alternativ kann ein Pull Request über GitHub erstellt werden, um den Feature-Branch zu mergen.
  
+# 8.0 Das hier ist Kapitel 8!
